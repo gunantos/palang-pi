@@ -36,7 +36,7 @@ def LOG_insert(text, level):
 
 
 LOG_insert("Start Aplication", "START")
-print("START APLICATION")
+print("START APLICATION " + fungsiGate.upper())
 try:
     if __name__ == "__main__":
         while runAplikasi:
